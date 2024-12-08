@@ -133,6 +133,7 @@ a {
     align-content: space-between;
 }
 .presentacion__titulo{
+    margin-top: 80px;
     font-size: 48px;
     font-weight: 700;
     padding-bottom: 15px;
